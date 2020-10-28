@@ -1,0 +1,40 @@
+<ParticleProperties>
+  <Name>Particle</Name>
+  <ObjectWidth>5</ObjectWidth>
+  <ObjectHeight>5</ObjectHeight>
+  <TextureName>Coin.png</TextureName>
+  <TextureWidth>0</TextureWidth>
+  <TextureHeight>0</TextureHeight>
+  <TotalFrames>1</TotalFrames>
+  <NumberOfRows>1</NumberOfRows>
+  <NumberOfColumns>1</NumberOfColumns>
+  <FrameLifetime>0.0</FrameLifetime>
+  
+  <MinLifetime>1</MinLifetime>
+  <MaxLifetime>2</MaxLifetime>
+  
+  <BeginScale>
+    <X>1</X>
+    <Y>1</Y>
+  </BeginScale>
+  <EndScale>
+    <X>0.5</X>
+    <Y>0.1</Y>
+  </EndScale>
+  
+  <BeginOpacity>1</BeginOpacity>
+  <EndOpacity>0.1</EndOpacity>
+  
+  <BeginColorR>0</BeginColorR>
+  <BeginColorG>0</BeginColorG>
+  <BeginColorB>0</BeginColorB>
+  <BeginColorA>1</BeginColorA>
+  
+  <EndColorR>1</EndColorR>
+  <EndColorG>1</EndColorG>
+  <EndColorB>1</EndColorB>
+  <EndColorA>.5</EndColorA>
+  
+  <MinMass>0.1</MinMass>
+  <MaxMass>0.3</MaxMass>
+</ParticleProperties>

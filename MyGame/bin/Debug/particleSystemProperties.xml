@@ -1,0 +1,15 @@
+<ParticleSystemProperties>
+  <Name>ParticleSystem</Name>
+  <ObjectWidth>1</ObjectWidth>
+  <ObjectHeight>1</ObjectHeight>
+  <TextureName></TextureName>
+  <TextureWidth>0</TextureWidth>
+  <TextureHeight>0</TextureHeight>
+  <TotalFrames>1</TotalFrames>
+  <NumberOfRows>1</NumberOfRows>
+  <NumberOfColumns>1</NumberOfColumns>
+  <FrameLifetime>0</FrameLifetime>
+  <NumberOfParticles>500</NumberOfParticles>
+  <MinLifetime>0.5</MinLifetime>
+  <MaxLifetime>1</MaxLifetime>
+</ParticleSystemProperties>
